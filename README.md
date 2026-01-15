@@ -2,7 +2,6 @@
 
 ![Banner Profile](images/banner_profile.png)
 
-# ¡Hola! 👋 Soy Álvaro Castilla González
 
 ### Desarrollador Full-Stack | Apasionado por la Tecnología e Innovación
 
