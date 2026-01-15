@@ -17,7 +17,7 @@ Estoy comprometido con el aprendizaje continuo, el crecimiento profesional y la 
 
 ## 📞 Contáctame
 
-<a href="mailto:alvarocastilla49@gmial.com">
+<a href="mailto:alvarocastilla49@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=gmail">
 </a>
 <a href="https://www.linkedin.com/in/alvarocastillagonzalez" target="_blank">
