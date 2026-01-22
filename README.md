@@ -59,9 +59,10 @@ Estoy comprometido con el aprendizaje continuo, el crecimiento profesional y la 
 
 ## 📈 Mis Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=alvarocastilla49&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarocastilla49&layout=compact&theme=dark&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jjcastilla94&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jjcastilla94&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ---
 
