@@ -9,7 +9,7 @@
 
 ## 🎯 Acerca de Mí
 
-Soy un desarrollador full-stack dedicado a transformar ideas innovadoras en soluciones tecnológicas robustas y escalables. Mi pasión radica en crear aplicaciones que no solo resuelven problemas complejos, sino que generan un impacto positivo tangible. 
+Soy un desarrollador backend dedicado a transformar ideas innovadoras en soluciones tecnológicas robustas y escalables. Mi pasión radica en crear aplicaciones que no solo resuelven problemas complejos, sino que generan un impacto positivo tangible. 
 
 Estoy comprometido con el aprendizaje continuo, el crecimiento profesional y la excelencia en el desarrollo de software. Busco colaborar en proyectos desafiantes donde pueda aportar mis conocimientos, aprender de otros y contribuir significativamente al éxito del equipo.
 
