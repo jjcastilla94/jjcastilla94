@@ -4,18 +4,18 @@
 
 # Álvaro Castilla
 
+<p align="center">
+  <a href="#perfil-profesional"><img src="https://img.shields.io/badge/Perfil-1F2937?style=flat-square&logoColor=white" alt="Perfil"></a>
+  <a href="#competencias-tecnicas"><img src="https://img.shields.io/badge/Competencias-2563EB?style=flat-square&logoColor=white" alt="Competencias"></a>
+  <a href="#enfoque"><img src="https://img.shields.io/badge/Enfoque-0F766E?style=flat-square&logoColor=white" alt="Enfoque"></a>
+  <a href="#estado-actual"><img src="https://img.shields.io/badge/Estado-6B7280?style=flat-square&logoColor=white" alt="Estado"></a>
+  <a href="#contacto"><img src="https://img.shields.io/badge/Contacto-DC2626?style=flat-square&logoColor=white" alt="Contacto"></a>
+</p>
+
 ### Full-Stack Developer · Almería, Andalucia (ES)
 
 <p align="center">
   Desarrollo software con una visión clara, cuidando la arquitectura, la experiencia de usuario y la calidad del código.
-</p>
-
-<p align="center">
-  <a href="#perfil-profesional">Perfil</a> ·
-  <a href="#competencias-técnicas">Competencias</a> ·
-  <a href="#enfoque">Enfoque</a> ·
-  <a href="#estado-actual">Estado</a> ·
-  <a href="#contacto">Contacto</a>
 </p>
 
 </div>
