@@ -1,90 +1,91 @@
 <div align="center">
 
-![Banner Profile](images/banner_profile.png)
+![Banner Profile](images/banner_link.png)
 
+# Álvaro Castilla
 
-### Desarrollador Full-Stack | Apasionado por la Tecnología e Innovación
+### Desarrollador Full-Stack
 
----
+<p align="center">
+  Desarrollo software con una visión clara, cuidando la arquitectura, la experiencia de usuario y la calidad del código.
+</p>
 
-## 🎯 Acerca de Mí
-
-Soy un desarrollador backend dedicado a transformar ideas innovadoras en soluciones tecnológicas robustas y escalables. Mi pasión radica en crear aplicaciones que no solo resuelven problemas complejos, sino que generan un impacto positivo tangible. 
-
-Estoy comprometido con el aprendizaje continuo, el crecimiento profesional y la excelencia en el desarrollo de software. Busco colaborar en proyectos desafiantes donde pueda aportar mis conocimientos, aprender de otros y contribuir significativamente al éxito del equipo.
-
----
-
-## 📞 Contáctame
-
-<a href="mailto:alvarocastilla49@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=gmail">
-</a>
-<a href="https://www.linkedin.com/in/alvarocastillagonzalez" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin">
-</a>
-
----
-
-## 🛠️ Tecnologías y Herramientas
-
-### 💻 Lenguajes de Programación
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### 🎨 Frameworks y Librerías
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🎨 Diseño y Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### 🔧 Herramientas y Plataformas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 📈 Mis Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jjcastilla94&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jjcastilla94&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ---
 
-## 🎓 Actualmente
+## Perfil profesional
 
-- 🔭 Trabajando en proyectos desafiantes de desarrollo full-stack
-- 🌱 Mejorando mis habilidades en arquitectura de software y patrones de diseño
-- 👯 Abierto a colaboraciones en proyectos innovadores
-- 💡 Aprendiendo nuevas tecnologías y mejores prácticas de desarrollo
-- 📚 Compartiendo conocimientos y ayudando a la comunidad
+Soy un desarrollador full-stack orientado a construir soluciones bien estructuradas, mantenibles y visualmente cuidadas. Me interesa combinar una base técnica sólida con una interfaz clara y una experiencia de usuario coherente.
+
+Me adapto con facilidad a diferentes entornos de trabajo y disfruto participando en proyectos donde la organización, la calidad y la mejora continua son parte del proceso.
 
 ---
 
-## 💭 Mi Filosofía
+## Competencias técnicas
 
-> "La tecnología es una herramienta poderosa para transformar ideas en realidad. Mi objetivo es utilizar esa herramienta de manera responsable, creativa y con un impacto positivo en la sociedad."
+<p align="center">
+  <strong>Frontend</strong><br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"><br><br>
+  <strong>Backend</strong><br>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"><br><br>
+  <strong>Herramientas</strong><br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
+</p>
 
 ---
+
+## Enfoque
+
+- Base técnica clara y estructura ordenada.
+- Interfaz limpia y experiencia de usuario cuidada.
+- Aprendizaje continuo y adaptación a nuevos entornos.
+- Comunicación y entrega responsable.
+
+---
+
+## Estado actual
+
+Me encuentro profundizando en arquitectura de software, integración frontend-backend y en el uso de Vue dentro de mi stack principal.
+
+---
+
+## Contacto
+
+<div align="center">
+  <a href="mailto:alvarocastilla49@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/alvarocastillagonzalez" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="./Alvaro%20Castilla%20cv.pdf" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Currículum-2C3E50?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Curriculum PDF">
+  </a>
+</div>
+
+---
+
+## Filosofía profesional
+
+> La tecnología tiene valor cuando resuelve problemas reales con claridad, calidad y responsabilidad.
 
 <div align="center">
 
-### ⭐ Si te gusta mi trabajo, ¡no olvides dejar una estrella en mis repositorios!
+### Puedes revisar mi [currículum](./Alvaro%20Castilla%20cv.pdf) o contactarme directamente.
 
 </div>
 
