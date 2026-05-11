@@ -10,10 +10,19 @@
   Desarrollo software con una visión clara, cuidando la arquitectura, la experiencia de usuario y la calidad del código.
 </p>
 
+<p align="center">
+  <a href="#perfil-profesional">Perfil</a> ·
+  <a href="#competencias-técnicas">Competencias</a> ·
+  <a href="#enfoque">Enfoque</a> ·
+  <a href="#estado-actual">Estado</a> ·
+  <a href="#contacto">Contacto</a>
+</p>
+
 </div>
 
 ---
 
+<a id="perfil-profesional"></a>
 ## Perfil profesional
 
 Soy un desarrollador full-stack junior orientado a construir soluciones bien estructuradas, mantenibles y visualmente cuidadas. Me interesa combinar una base técnica sólida con una interfaz clara y una experiencia de usuario coherente.
@@ -22,6 +31,7 @@ Me adapto con facilidad a diferentes entornos de trabajo y disfruto participando
 
 ---
 
+<a id="competencias-tecnicas"></a>
 ## Competencias técnicas
 
 <p align="center">
@@ -48,6 +58,7 @@ Me adapto con facilidad a diferentes entornos de trabajo y disfruto participando
 
 ---
 
+<a id="enfoque"></a>
 ## Enfoque
 
 - Base técnica clara y estructura ordenada.
@@ -57,12 +68,14 @@ Me adapto con facilidad a diferentes entornos de trabajo y disfruto participando
 
 ---
 
+<a id="estado-actual"></a>
 ## Estado actual
 
 Me encuentro profundizando en arquitectura de software, integración frontend-backend y en el uso de Vue dentro de mi stack principal.
 
 ---
 
+<a id="contacto"></a>
 ## Contacto
 
 <div align="center">
