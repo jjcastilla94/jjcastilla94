@@ -4,7 +4,7 @@
 
 # Álvaro Castilla
 
-### Desarrollador Full-Stack · Almería, Andalucia (ES)
+### Full-Stack Developer · Almería, Andalucia (ES)
 
 <p align="center">
   Desarrollo software con una visión clara, cuidando la arquitectura, la experiencia de usuario y la calidad del código.
@@ -16,7 +16,7 @@
 
 ## Perfil profesional
 
-Soy un desarrollador full-stack orientado a construir soluciones bien estructuradas, mantenibles y visualmente cuidadas. Me interesa combinar una base técnica sólida con una interfaz clara y una experiencia de usuario coherente.
+Soy un desarrollador full-stack junior orientado a construir soluciones bien estructuradas, mantenibles y visualmente cuidadas. Me interesa combinar una base técnica sólida con una interfaz clara y una experiencia de usuario coherente.
 
 Me adapto con facilidad a diferentes entornos de trabajo y disfruto participando en proyectos donde la organización, la calidad y la mejora continua son parte del proceso.
 
