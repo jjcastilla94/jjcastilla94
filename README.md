@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner Profile](images/banner_link.png)
+![Banner Profile](images/banner.png)
 
 # Álvaro Castilla
 
