@@ -75,6 +75,66 @@ Me encuentro profundizando en arquitectura de software, integración frontend-ba
 
 ---
 
+<a id="proyectos-destacados"></a>
+## Proyectos destacados
+
+<table>
+  <tr>
+    <td width="40%" valign="top">
+      <h3 align="center">DeTuBarrio</h3>
+      <div align="center">
+        <a href="https://github.com/DetuBarrio/DetuBarrio" target="_blank">
+          <img src="https://img.shields.io/badge/Repositorio-181717?style=flat-square&logo=github" alt="Repositorio">
+        </a>
+      </div>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js">
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+      </p>
+      <p align="center">
+        Aplicación Full-Stack para conectar vecinos con comercios y servicios de barrio. Plataforma de proximidad con autenticación, geolocalización y panel de administración.
+      </p>
+    </td>
+    <td width="60%" valign="top">
+      <h3 align="center">Restaurante TPV</h3>
+      <div align="center">
+        <a href="https://github.com/jjcastilla94/gestor-de-un-restaurante-tpv" target="_blank">
+          <img src="https://img.shields.io/badge/Repositorio-181717?style=flat-square&logo=github" alt="Repositorio">
+        </a>
+      </div>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
+      </p>
+      <p align="center">
+        Sistema de gestión y punto de venta para hostelería. Control de pedidos, mesas, inventario y generación de tickets.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="2" valign="top">
+      <h3 align="center">App Backend con Bottle</h3>
+      <div align="center">
+        <a href="https://github.com/jjcastilla94/app_backend_con_bottle" target="_blank">
+          <img src="https://img.shields.io/badge/Repositorio-181717?style=flat-square&logo=github" alt="Repositorio">
+        </a>
+      </div>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/Bottle-009688?style=flat-square&logo=&logoColor=white" alt="Bottle">
+      </p>
+      <p align="center">
+        API backend construida con el microframework Bottle en Python. Rutas REST, manejo de peticiones y estructura modular para aplicaciones ligeras.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 <a id="contacto"></a>
 ## Contacto
 
