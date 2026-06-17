@@ -80,7 +80,7 @@ Me encuentro profundizando en arquitectura de software, integración frontend-ba
 
 <table>
   <tr>
-    <td width="40%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">DeTuBarrio</h3>
       <div align="center">
         <a href="https://github.com/DetuBarrio/DetuBarrio" target="_blank">
@@ -89,14 +89,16 @@ Me encuentro profundizando en arquitectura de software, integración frontend-ba
       </div>
       <p align="center">
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
       </p>
       <p align="center">
         Aplicación Full-Stack para conectar vecinos con comercios y servicios de barrio. Plataforma de proximidad con autenticación, geolocalización y panel de administración.
       </p>
     </td>
-    <td width="60%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">Restaurante TPV</h3>
       <div align="center">
         <a href="https://github.com/jjcastilla94/gestor-de-un-restaurante-tpv" target="_blank">
@@ -104,10 +106,9 @@ Me encuentro profundizando en arquitectura de software, integración frontend-ba
         </a>
       </div>
       <p align="center">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+        <img src="https://img.shields.io/badge/JavaFX-02303A?style=flat-square" alt="JavaFX">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
       </p>
       <p align="center">
         Sistema de gestión y punto de venta para hostelería. Control de pedidos, mesas, inventario y generación de tickets.
@@ -115,7 +116,7 @@ Me encuentro profundizando en arquitectura de software, integración frontend-ba
     </td>
   </tr>
   <tr>
-    <td width="100%" colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">App Backend con Bottle</h3>
       <div align="center">
         <a href="https://github.com/jjcastilla94/app_backend_con_bottle" target="_blank">
@@ -128,6 +129,24 @@ Me encuentro profundizando en arquitectura de software, integración frontend-ba
       </p>
       <p align="center">
         API backend construida con el microframework Bottle en Python. Rutas REST, manejo de peticiones y estructura modular para aplicaciones ligeras.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Gestión de Estudiantes</h3>
+      <div align="center">
+        <a href="https://github.com/jjcastilla94/proyecto_con_vue" target="_blank">
+          <img src="https://img.shields.io/badge/Repositorio-181717?style=flat-square&logo=github" alt="Repositorio">
+        </a>
+      </div>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js">
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+      </p>
+      <p align="center">
+        Aplicación web para la gestión de estudiantes, cursos y matrículas. Panel administrativo con autenticación, CRUD completo.
       </p>
     </td>
   </tr>
