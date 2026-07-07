@@ -13,10 +13,10 @@
   <a href="#contacto"><img src="https://img.shields.io/badge/Contacto-DC2626?style=flat-square&logoColor=white" alt="Contacto"></a>
 </p>
 
-### Backend Developer Junior · Java & Spring Boot · REST APIs · Almería, Andalucia (ES)
+### Backend Developer · Java & Spring Boot · REST APIs · Almería, Andalucia (ES)
 
 <p align="center">
-  Desarrollador Backend Junior con experiencia en el desarrollo e integración de APIs REST utilizando Java y Spring Boot. Interesado en arquitectura de software, buenas prácticas y desarrollo de aplicaciones empresariales.
+  Desarrollador Backend con experiencia en el desarrollo e integración de APIs REST utilizando Java y Spring Boot. Interesado en arquitectura de software, buenas prácticas y desarrollo de aplicaciones empresariales.
 </p>
 
 </div>
@@ -26,7 +26,7 @@
 <a id="perfil-profesional"></a>
 ## Perfil profesional
 
-Backend Developer Junior especializado en Java y Spring Boot, con experiencia profesional en el desarrollo e integración de APIs REST dentro de entornos empresariales.
+Backend Developer especializado en Java y Spring Boot, con experiencia profesional en el desarrollo e integración de APIs REST dentro de entornos empresariales.
 
 Además de mi experiencia profesional, he desarrollado proyectos full-stack que me han permitido trabajar con tecnologías como Vue.js, MySQL, Docker y arquitecturas desacopladas orientadas a servicios.
 
